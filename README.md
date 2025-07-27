@@ -47,28 +47,28 @@
 ## 📦 Installation & Setup
 
 1. *Clone the repository*
-   bash
+   ```bash
    git clone https://github.com/FarhanaazRS/a11y-widget.git
    cd a11y-widget
 
 2. **Install dependencies**
-   bash
+   ```bash
    npm install
 
 3. *Run the development server*
-   bash
+   ```bash
    npm run dev
 
 4. **Build for production**
-   bash
+   ```bash
    npm run build
 
 ## 🧩 Usage
 Simply embed the widget in any project by including the compiled script:
 
-  bash
+  ```bash
   <script src="a11y-widget.js"></script>
-
+```
 Once loaded, the floating button will appear at the bottom-right corner of the page.
 
 ## 📸 Screenshots
